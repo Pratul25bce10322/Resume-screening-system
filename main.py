@@ -5,8 +5,8 @@ A terminal-based AI tool that evaluates resumes against
 predefined job role requirements using NLP techniques
 like tokenization and keyword matching.
 
-Author  : Saumya Agarwal
-Reg No  : 25BCE10298
+Author  : Pratul Kashyap
+Reg No  : 25BCE10322
 Course  : CSA2001 - Artificial Intelligence
 Project : Resume Screening System (BYOP)
 
