@@ -4,7 +4,7 @@ utils.py - Utility Functions for Resume Screening System
 Contains helper functions for text processing, file handling,
 score calculation, and display formatting.
 
-Author  : Saumya Agarwal
+Author  : Pratul Kashyap
 Course  : CSA2001 - Artificial Intelligence
 Project : Resume Screening System (BYOP)
 """
