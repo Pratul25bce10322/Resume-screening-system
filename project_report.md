@@ -7,7 +7,7 @@
 **Semester:** Winter_Semester_2025-26  
 **Name:** PRATUL KASHYAP   
 **Registration No:** 25BCE10322   
-**Faculty:** J. HARIHARAN R   
+**Faculty:** HARIHARAN R   
 
 ---
 
