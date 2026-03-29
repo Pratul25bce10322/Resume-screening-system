@@ -265,10 +265,10 @@ Simply add an entry to `roles.json`:
 
 ## 👤 Author
 
-- **Name**: [Your Name]
-- **Registration No**: [Your Reg No]
+- **Name**: PRATUL KASHYAP
+- **Registration No**: 25BCE10322
 - **Course**: CSA2001 — Artificial Intelligence
-- **University**: VIT AP University
+- **University**: VIT BHOPAL University
 
 ---
 
