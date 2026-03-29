@@ -231,8 +231,8 @@ Simply add an entry to `roles.json`:
 
 ## 👤 Author
 
-- **Name**: [Manthan]
-- **Registration No**: [25BCE10321]
+- **Name**: Pratul Kashyap
+- **Registration No**: 24BCE10322
 - **Course**: CSA2001 — Artificial Intelligence
 - **University**: VIT Bhopal University
 
